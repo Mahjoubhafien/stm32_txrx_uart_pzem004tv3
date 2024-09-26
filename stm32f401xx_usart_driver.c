@@ -2,7 +2,7 @@
  * sm32f401xx_usart_driver.c
  *
  *  Created on: Sep 17, 2024
- *      Author: KURAPIKA
+ *      Author: MahjoubHafien
  */
 #include "stm32f401xx_usart_driver.h"
 
